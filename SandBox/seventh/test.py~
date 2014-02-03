@@ -1,6 +1,6 @@
 import unittest
 from add import add
-'''thidssas is the unit test case of add method 1'''
+'''this is the unit test case of add method'''
 class TestMath(unittest.TestCase):
 	def test_add_two_numbers():
 		result=add(10,1)
